@@ -1,6 +1,8 @@
-# Fuse - Admin template and Starter project for Angular
+# Smart Attendance and Academic Management
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
+This project is based on the Fuse Angular starter and extends it with simple modules for attendance tracking and assignment management. It demonstrates a basic architecture for recording attendance and listing assignments using Angular standalone components and services.
+
+Navigate to `/attendance` after signing in to view stored attendance records and `/assignments` to view assignments. All data is stored in browser `localStorage` for demonstration purposes.
 
 ## Development server
 
